@@ -5,6 +5,7 @@ description: Lecture presentation on thermal and chemical evolution of the earth
   and models of evolution.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-570-seminar-in-geophysics-thermal-and-chemical-evolution-of-the-earth-spring-2005/985c8e5b6bbba180f2cdffde6b1c2b59_lectureoconnell.pdf
 file_type: application/pdf
+parent_uid: 087e1abc-a82a-8f20-097e-cd400d77a558
 resourcetype: Document
 title: Thermal and Chemical Evolution of the Earth
 uid: 985c8e5b-6bbb-a180-f2cd-ffde6b1c2b59
